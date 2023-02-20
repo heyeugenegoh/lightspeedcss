@@ -1,0 +1,5 @@
+lightspeedConfig = {
+
+}
+
+module.exports = lightspeedConfig;
