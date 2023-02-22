@@ -1,3 +1,3 @@
-let defaultConfigs = require('./src/lib/defaults/config.js');
+let defaultConfigs = require('../src/lib/defaults/config.js');
 
 module.exports = defaultConfigs.lightspeedcss
