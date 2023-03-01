@@ -1,7 +1,8 @@
 
 export default function ({ margins }) {
   for (var margin in margins) {
-    generateCss(`m-${margin}`)
+    generateCss(`m-${margin}`);
+    generateCss(`mt-${margin}`);
   }
 }
 
